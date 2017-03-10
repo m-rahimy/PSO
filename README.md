@@ -1,6 +1,6 @@
 ## Welcome to PSO
 
-**See the small clip for working with the Application:**
+**See the small clip to see how it works:**
 
 http://www.aparat.com/v/rTD7c
 
