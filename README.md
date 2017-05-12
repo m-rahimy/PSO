@@ -4,7 +4,7 @@
 
 http://www.aparat.com/v/rTD7c
 
-**Get The running jar here**
+**Get the runnable jar here**
 
 http://pso.mrahimy.ir/pso.zip
 
