@@ -1,4 +1,4 @@
-## Welcome to PSO
+## PSO implementation 
 
 **See the small clip to see how it works:**
 
